@@ -216,26 +216,6 @@ A direct push to `main` was attempted and GitHub rejected the push with a protec
 
 ---
 
-# Repository URLs
-
-## GitHub Repository
-
-Add your GitHub repository URL here.
-
-```text
-https://github.com/YOUR_USERNAME/git-practice-task
-```
-
-## GitLab Repository
-
-Add your GitLab repository URL here.
-
-```text
-https://gitlab.com/YOUR_USERNAME/gitlab-practice
-```
-
----
-
 # Author
 
 **Name:** Atharv Salunke
